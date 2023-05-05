@@ -3,7 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\Jerome\Downloads\advertising.csv">
+        <entry key="C:\Users\Jerome\Downloads\movie-reviews\sampleSubmission.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\supervised\advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\supervised\sales-prediction\advertising.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
